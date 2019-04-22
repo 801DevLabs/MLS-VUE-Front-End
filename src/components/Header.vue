@@ -47,7 +47,7 @@ header {
 .header-content {
   padding: 0 20px;
   height: 65px;
-  max-width: 940px;
+  max-width: 1200px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
